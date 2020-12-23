@@ -9,13 +9,22 @@ collections:
     title: Uploads
     output: true
 email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this
+description:
+  Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
   results) and in your feed.xml site description.
-baseurl: ''
-url: ''
+baseurl: ""
+url: ""
 twitter_username: jekyllrb
 github_username: jekyll
-theme: minima
+theme: plainwhite
 plugins:
-- jekyll-feed
+  - jekyll-feed
+remote_theme: samarsault/plainwhite-jekyll
+plainwhite:
+  name: Samuel Tilly
+  tagline: Developer
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: SamuelTilly
