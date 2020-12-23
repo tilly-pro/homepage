@@ -1,5 +1,6 @@
 ---
 published: true
+title: Nytt inlägg via prose.io
 layout: post
 date: '2020-12-23 12:06:00 +0100'
 categories: jekyll update
