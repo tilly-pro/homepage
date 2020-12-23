@@ -2,7 +2,7 @@
 published: true
 title: Nytt inlägg via prose.io
 layout: post
-date: '2020-12-23 12:06:00 +0100'
+date: '2020-12-23 01:00:00 +0100'
 categories: jekyll update
 ---
 Nu blev jag rätt sugen på att undersöka alternativen här ikväll, så jag gjorde ett exempel med min egna domän "tilly.pro"
