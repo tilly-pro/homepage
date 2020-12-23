@@ -1,10 +1,12 @@
 ---
-published: true
 title: Nytt inlägg via prose.io
+date: 2020-12-23 00:00:00 Z
+categories:
+- jekyll
+- update
 layout: post
-date: '2020-12-23 01:00:00 +0100'
-categories: jekyll update
 ---
+
 Nu blev jag rätt sugen på att undersöka alternativen här ikväll, så jag gjorde ett exempel med min egna domän "tilly.pro"
 Hemsidan går att besöka här: https://tilly.pro/
 Källkoden här: https://github.com/tilly-pro/homepage
